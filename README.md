@@ -1,2 +1,2 @@
-ProLeap COBOL 85 Example Repository
-===================================
+ProLeap COBOL Example Repository
+================================
